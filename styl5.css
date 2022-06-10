@@ -1,0 +1,60 @@
+body {
+    font-family: Tahoma;
+    margin: 0;
+    padding: 0;
+}
+
+.bannerLeft, .bannerRight {
+    background-color: #003d33;
+    color: #fff;
+    text-align: center;
+    height: 50px;
+    float: left;
+}
+
+.bannerLeft {
+    width: 70%;
+}
+
+.bannerRight {
+    width: 30%;
+}
+
+.mainLeft {
+    background-color: #26a69a;
+    height: 550px;
+    width: 30%;
+    clear: left;
+    float: left;
+}
+
+.mainRight {
+    background-color: #26a69a;
+    height: 550px;
+    width: 70%;
+    float: left;
+}
+
+.footer {
+    background-color: #003d33;
+    color: #fff;
+}
+
+.card {
+    width: 400px;
+    margin: 30px;
+    text-align: center;
+    border: solid 1px #003d33;
+}
+
+.card input{
+    background-color: #003d33;
+    color: #fff;
+    width: 100%;
+    height: 30px;
+    border: none;
+}
+
+.card input:hover{
+    background-color: #004c40;
+}
